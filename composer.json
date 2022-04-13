@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/laravel-sls",
+  "name": "jiangslee/laravel-sls",
   "type": "library",
   "description": "Aliyun SLS Log For Laravel",
   "keywords": [
