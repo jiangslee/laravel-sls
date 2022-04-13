@@ -9,7 +9,7 @@
 Via Composer
 
 ``` bash
-$ composer require lokielse/laravel-sls
+$ composer require jiangslee/laravel-sls -vvv
 ```
 
 ## Config
